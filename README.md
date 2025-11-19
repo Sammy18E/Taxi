@@ -74,3 +74,37 @@ Ein interaktives Dashboard zeigt die wichtigsten Metriken auf einen Blick, inkl.
 - Zahlungstypen und Trinkgelder  
 - Vergleich von Distanz, Zeit und Fahrtverhalten  
 
+---
+
+## Dateien im Repository
+```text
+Taxi-Excel-Projekt/
+│
+├── 2020624_Praxisprojekt_Datensatz_Taxis.csv
+│   → Originaldatensatz (NYC Taxi Tourdaten)
+│
+├── 20241218_Praxisprojekt_Datensatz_Taxis_pickupsdropoffs_SammyEhl.xlsx
+│   → Persönliche Analyse- und Arbeitsdatei
+│
+└── Präsi_Datei_FINAL_Fanni_Laura_Sammy.xlsx
+    → Gemeinsame Abschlusspräsentation (3er-Team)
+```
+
+---
+
+## Verwendete Excel-Tools
+
+- Pivot-Tabellen
+- Slicer (Filterelemente)
+- Diagramme & Charts
+- Gruppierungen (Zeit & Datum)
+- Bedingte Formatierung
+- Dashboard-Gestaltung
+- Layout-Formatierungen
+
+---
+
+## Zusammenfassung
+
+Dieses Projekt zeigt, wie sich große reale Datensätze vollständig in Excel analysieren und visualisieren lassen.
+Das erstellte Dashboard bietet einen verständlichen Überblick über das Fahrverhalten in New York City und unterstützt datenbasierte Entscheidungen.
